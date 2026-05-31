@@ -73,16 +73,19 @@ leetcode question's solutions
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -90,6 +93,7 @@ leetcode question's solutions
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
