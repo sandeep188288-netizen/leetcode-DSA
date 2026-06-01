@@ -39,6 +39,7 @@ leetcode question's solutions
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3093-longest-common-suffix-queries](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Counting
@@ -55,6 +56,7 @@ leetcode question's solutions
 | [0242-valid-anagram](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Trie
 |  |
 | ------- |
@@ -109,4 +111,8 @@ leetcode question's solutions
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0113-path-sum-ii) |
+## Greedy
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
