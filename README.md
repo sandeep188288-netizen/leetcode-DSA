@@ -32,6 +32,7 @@ leetcode question's solutions
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -41,12 +42,14 @@ leetcode question's solutions
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3093-longest-common-suffix-queries](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Counting
 |  |
 | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +73,7 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Tree
 |  |
@@ -120,4 +124,8 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0138-copy-list-with-random-pointer) |
+## Number Theory
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
 <!---LeetCode Topics End-->
