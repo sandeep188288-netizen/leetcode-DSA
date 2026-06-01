@@ -27,6 +27,7 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0138-copy-list-with-random-pointer](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -115,4 +116,8 @@ leetcode question's solutions
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
