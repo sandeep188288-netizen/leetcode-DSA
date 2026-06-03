@@ -9,6 +9,7 @@ leetcode question's solutions
 | [0005-longest-palindromic-substring](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ leetcode question's solutions
 | [3093-longest-common-suffix-queries](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Counting
 |  |
 | ------- |
@@ -57,6 +59,7 @@ leetcode question's solutions
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -65,6 +68,7 @@ leetcode question's solutions
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Trie
 |  |
 | ------- |
@@ -125,6 +129,7 @@ leetcode question's solutions
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Linked List
 |  |
 | ------- |
