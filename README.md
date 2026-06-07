@@ -61,6 +61,7 @@ leetcode question's solutions
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -96,6 +97,7 @@ leetcode question's solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0113-path-sum-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -120,6 +122,7 @@ leetcode question's solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0113-path-sum-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0222-count-complete-tree-nodes](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -168,4 +171,8 @@ leetcode question's solutions
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2574-left-and-right-sum-differences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
