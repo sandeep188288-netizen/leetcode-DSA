@@ -198,6 +198,7 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0231-power-of-two) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -218,4 +219,8 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0231-power-of-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
