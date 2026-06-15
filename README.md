@@ -48,6 +48,7 @@ leetcode question's solutions
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0136-single-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -153,6 +154,7 @@ leetcode question's solutions
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0113-path-sum-ii) |
 ## Greedy
@@ -197,6 +199,7 @@ leetcode question's solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
