@@ -51,6 +51,7 @@ leetcode question's solutions
 | [0078-subsets](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0136-single-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1310-xor-queries-of-a-subarray](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -197,6 +198,7 @@ leetcode question's solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [1310-xor-queries-of-a-subarray](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [2574-left-and-right-sum-differences](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2574-left-and-right-sum-differences) |
 ## Bit Manipulation
 |  |
@@ -207,6 +209,7 @@ leetcode question's solutions
 | [0222-count-complete-tree-nodes](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0342-power-of-four) |
+| [1310-xor-queries-of-a-subarray](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1486-xor-operation-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Simulation
