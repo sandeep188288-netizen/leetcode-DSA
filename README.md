@@ -100,6 +100,7 @@ leetcode question's solutions
 | [0096-unique-binary-search-trees](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0342-power-of-four) |
+| [1486-xor-operation-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -206,6 +207,7 @@ leetcode question's solutions
 | [0222-count-complete-tree-nodes](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0342-power-of-four) |
+| [1486-xor-operation-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Simulation
 |  |
