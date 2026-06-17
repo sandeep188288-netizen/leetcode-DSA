@@ -53,6 +53,7 @@ leetcode question's solutions
 | [0078-subsets](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0136-single-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0861-score-after-flipping-matrix](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -165,6 +166,7 @@ leetcode question's solutions
 ## Greedy
 |  |
 | ------- |
+| [0861-score-after-flipping-matrix](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -211,6 +213,7 @@ leetcode question's solutions
 | [0222-count-complete-tree-nodes](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0342-power-of-four) |
+| [0861-score-after-flipping-matrix](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1486-xor-operation-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -238,4 +241,8 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0191-number-of-1-bits) |
+## Matrix
+|  |
+| ------- |
+| [0861-score-after-flipping-matrix](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
 <!---LeetCode Topics End-->
