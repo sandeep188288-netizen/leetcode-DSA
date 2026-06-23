@@ -20,6 +20,7 @@ leetcode question's solutions
 | [0005-longest-palindromic-substring](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3093-longest-common-suffix-queries](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -46,6 +47,7 @@ leetcode question's solutions
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -81,6 +83,7 @@ leetcode question's solutions
 | [1189-maximum-number-of-balloons](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Binary Search
 |  |
 | ------- |
