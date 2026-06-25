@@ -19,6 +19,7 @@ leetcode question's solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0290-word-pattern) |
 | [1189-maximum-number-of-balloons](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3093-longest-common-suffix-queries](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3093-longest-common-suffix-queries) |
@@ -41,6 +42,7 @@ leetcode question's solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0290-word-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
