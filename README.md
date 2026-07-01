@@ -79,6 +79,7 @@ leetcode question's solutions
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3093-longest-common-suffix-queries](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -103,6 +104,7 @@ leetcode question's solutions
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
@@ -171,6 +173,7 @@ leetcode question's solutions
 | [0429-n-ary-tree-level-order-traversal](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -272,6 +275,7 @@ leetcode question's solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Recursion
 |  |
@@ -288,6 +292,7 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Counting Sort
 |  |
 | ------- |
@@ -297,4 +302,8 @@ leetcode question's solutions
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
