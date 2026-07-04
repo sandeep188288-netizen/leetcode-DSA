@@ -19,6 +19,7 @@ leetcode question's solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0290-word-pattern) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [1189-maximum-number-of-balloons](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -152,6 +153,7 @@ leetcode question's solutions
 | [0113-path-sum-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0113-path-sum-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0449-serialize-and-deserialize-bst) |
@@ -166,6 +168,7 @@ leetcode question's solutions
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -193,6 +196,7 @@ leetcode question's solutions
 | [0113-path-sum-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0113-path-sum-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0257-binary-tree-paths](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -212,6 +216,7 @@ leetcode question's solutions
 | [0078-subsets](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0257-binary-tree-paths) |
 ## Greedy
 |  |
 | ------- |
