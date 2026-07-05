@@ -22,6 +22,7 @@ leetcode question's solutions
 | [0257-binary-tree-paths](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0290-word-pattern) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1189-maximum-number-of-balloons](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -159,6 +160,7 @@ leetcode question's solutions
 | [0449-serialize-and-deserialize-bst](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -173,6 +175,7 @@ leetcode question's solutions
 | [0449-serialize-and-deserialize-bst](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -201,6 +204,7 @@ leetcode question's solutions
 | [0449-serialize-and-deserialize-bst](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
