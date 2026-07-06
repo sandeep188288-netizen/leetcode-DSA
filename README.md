@@ -71,6 +71,7 @@ leetcode question's solutions
 | [0260-single-number-iii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0260-single-number-iii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0861-score-after-flipping-matrix](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
+| [1288-remove-covered-intervals](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [1732-find-the-highest-altitude](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
@@ -118,6 +119,7 @@ leetcode question's solutions
 | [0242-valid-anagram](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1288-remove-covered-intervals](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
