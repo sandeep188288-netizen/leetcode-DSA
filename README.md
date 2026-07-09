@@ -109,6 +109,7 @@ leetcode question's solutions
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -139,6 +140,7 @@ leetcode question's solutions
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0342-power-of-four) |
