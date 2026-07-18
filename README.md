@@ -84,6 +84,7 @@ leetcode question's solutions
 | [1840-maximum-building-height](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -155,6 +156,7 @@ leetcode question's solutions
 | [1344-angle-between-hands-of-a-clock](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1840-maximum-building-height](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -262,6 +264,7 @@ leetcode question's solutions
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
