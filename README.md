@@ -75,6 +75,7 @@ leetcode question's solutions
 | [0260-single-number-iii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0260-single-number-iii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0861-score-after-flipping-matrix](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
+| [1260-shift-2d-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -315,6 +316,7 @@ leetcode question's solutions
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3612-process-string-with-special-operations-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3612-process-string-with-special-operations-i) |
@@ -347,6 +349,7 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
+| [1260-shift-2d-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Counting Sort
 |  |
