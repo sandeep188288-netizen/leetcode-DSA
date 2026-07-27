@@ -81,6 +81,7 @@ leetcode question's solutions
 | [1288-remove-covered-intervals](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [1732-find-the-highest-altitude](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -133,6 +134,7 @@ leetcode question's solutions
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -339,6 +341,7 @@ leetcode question's solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Recursion
