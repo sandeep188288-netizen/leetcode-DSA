@@ -100,6 +100,7 @@ leetcode question's solutions
 | [3093-longest-common-suffix-queries](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -166,6 +167,7 @@ leetcode question's solutions
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -283,6 +285,7 @@ leetcode question's solutions
 | [1291-sequential-digits](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
@@ -321,6 +324,7 @@ leetcode question's solutions
 | [0861-score-after-flipping-matrix](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1486-xor-operation-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1486-xor-operation-in-an-array) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Simulation
 |  |
