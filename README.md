@@ -27,6 +27,7 @@ leetcode question's solutions
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -167,6 +168,7 @@ leetcode question's solutions
 | [1344-angle-between-hands-of-a-clock](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1840-maximum-building-height](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -265,6 +267,7 @@ leetcode question's solutions
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1927-sum-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -392,4 +395,8 @@ leetcode question's solutions
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
