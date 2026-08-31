@@ -282,6 +282,7 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Number Theory
