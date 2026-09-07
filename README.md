@@ -115,6 +115,7 @@ leetcode question's solutions
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
 |  |
@@ -188,6 +189,7 @@ leetcode question's solutions
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Tree
 |  |
 | ------- |
