@@ -414,6 +414,7 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0595-big-countries) |
+| [1075-project-employees-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1075-project-employees-i) |
 | [1683-invalid-tweets](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
