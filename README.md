@@ -413,5 +413,6 @@ leetcode question's solutions
 ## Database
 |  |
 | ------- |
+| [1683-invalid-tweets](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
