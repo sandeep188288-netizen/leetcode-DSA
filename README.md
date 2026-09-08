@@ -415,6 +415,7 @@ leetcode question's solutions
 | ------- |
 | [0595-big-countries](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0596-classes-with-at-least-5-students) |
+| [1045-customers-who-bought-all-products](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1075-project-employees-i) |
 | [1683-invalid-tweets](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1683-invalid-tweets) |
