@@ -410,4 +410,8 @@ leetcode question's solutions
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1927-sum-game) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
