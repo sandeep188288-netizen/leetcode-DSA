@@ -419,6 +419,7 @@ leetcode question's solutions
 | [1045-customers-who-bought-all-products](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1075-project-employees-i) |
+| [1280-students-and-examinations](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1757-recyclable-and-low-fat-products) |
