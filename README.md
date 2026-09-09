@@ -424,4 +424,5 @@ leetcode question's solutions
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
