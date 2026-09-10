@@ -418,6 +418,7 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0577-employee-bonus](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0596-classes-with-at-least-5-students) |
 | [1045-customers-who-bought-all-products](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1045-customers-who-bought-all-products) |
