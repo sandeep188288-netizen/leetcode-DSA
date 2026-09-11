@@ -71,6 +71,7 @@ leetcode question's solutions
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Array
@@ -105,6 +106,7 @@ leetcode question's solutions
 | [3093-longest-common-suffix-queries](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -306,6 +308,7 @@ leetcode question's solutions
 | ------- |
 | [1291-sequential-digits](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -376,6 +379,7 @@ leetcode question's solutions
 | ------- |
 | [0231-power-of-two](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
