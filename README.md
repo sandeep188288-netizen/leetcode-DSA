@@ -173,6 +173,7 @@ leetcode question's solutions
 | [0096-unique-binary-search-trees](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0342-power-of-four) |
+| [0836-rectangle-overlap](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1840-maximum-building-height](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1840-maximum-building-height) |
@@ -437,4 +438,8 @@ leetcode question's solutions
 | [1683-invalid-tweets](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1934-confirmation-rate) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
