@@ -178,6 +178,7 @@ leetcode question's solutions
 | [0342-power-of-four](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0342-power-of-four) |
 | [0836-rectangle-overlap](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1840-maximum-building-height](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1840-maximum-building-height) |
 | [1927-sum-game](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1927-sum-game) |
@@ -449,4 +450,5 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
