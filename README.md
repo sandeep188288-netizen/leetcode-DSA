@@ -429,6 +429,7 @@ leetcode question's solutions
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0595-big-countries) |
