@@ -104,6 +104,7 @@ leetcode question's solutions
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2574-left-and-right-sum-differences) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -315,6 +316,7 @@ leetcode question's solutions
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
