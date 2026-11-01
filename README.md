@@ -87,6 +87,7 @@ leetcode question's solutions
 | [0078-subsets](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0260-single-number-iii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0861-score-after-flipping-matrix](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1260-shift-2d-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1260-shift-2d-grid) |
@@ -185,6 +186,7 @@ leetcode question's solutions
 | [0096-unique-binary-search-trees](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0342-power-of-four) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0836-rectangle-overlap) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
