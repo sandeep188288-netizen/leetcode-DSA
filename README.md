@@ -31,6 +31,7 @@ leetcode question's solutions
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -379,6 +380,7 @@ leetcode question's solutions
 | [1260-shift-2d-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3614-process-string-with-special-operations-ii) |
