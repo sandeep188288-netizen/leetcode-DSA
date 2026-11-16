@@ -91,6 +91,7 @@ leetcode question's solutions
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0861-score-after-flipping-matrix](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
+| [1046-last-stone-weight](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1310-xor-queries-of-a-subarray](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1310-xor-queries-of-a-subarray) |
@@ -396,6 +397,7 @@ leetcode question's solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3691-maximum-total-subarray-value-ii) |
