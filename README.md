@@ -91,6 +91,7 @@ leetcode question's solutions
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0861-score-after-flipping-matrix](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1288-remove-covered-intervals) |
@@ -155,6 +156,7 @@ leetcode question's solutions
 | ------- |
 | [0242-valid-anagram](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -190,6 +192,7 @@ leetcode question's solutions
 | [0342-power-of-four](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1486-xor-operation-in-an-array) |
@@ -397,6 +400,7 @@ leetcode question's solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -411,6 +415,7 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0191-number-of-1-bits) |
+| [0973-k-closest-points-to-origin](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
@@ -472,6 +477,7 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bracket Sequences
 |  |
@@ -481,4 +487,12 @@ leetcode question's solutions
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
