@@ -61,6 +61,7 @@ leetcode question's solutions
 | [0138-copy-list-with-random-pointer](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -88,6 +89,7 @@ leetcode question's solutions
 | [0078-subsets](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0260-single-number-iii) |
+| [0347-top-k-frequent-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0861-score-after-flipping-matrix](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
@@ -136,6 +138,7 @@ leetcode question's solutions
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2183-count-array-pairs-divisible-by-k) |
@@ -155,6 +158,7 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -400,6 +404,7 @@ leetcode question's solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -415,6 +420,7 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -490,9 +496,14 @@ leetcode question's solutions
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
