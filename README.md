@@ -234,6 +234,7 @@ leetcode question's solutions
 | [0429-n-ary-tree-level-order-traversal](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -252,6 +253,7 @@ leetcode question's solutions
 | [0404-sum-of-left-leaves](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -283,6 +285,7 @@ leetcode question's solutions
 | [0404-sum-of-left-leaves](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
@@ -296,6 +299,7 @@ leetcode question's solutions
 | [0096-unique-binary-search-trees](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0096-unique-binary-search-trees) |
 | [0173-binary-search-tree-iterator](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0449-serialize-and-deserialize-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0538-convert-bst-to-greater-tree) |
 ## Backtracking
 |  |
 | ------- |
