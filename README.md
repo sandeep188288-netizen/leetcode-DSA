@@ -234,6 +234,7 @@ leetcode question's solutions
 | [0429-n-ary-tree-level-order-traversal](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
@@ -265,6 +266,7 @@ leetcode question's solutions
 | [0429-n-ary-tree-level-order-traversal](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -281,6 +283,7 @@ leetcode question's solutions
 | [0404-sum-of-left-leaves](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2196-create-binary-tree-from-descriptions) |
