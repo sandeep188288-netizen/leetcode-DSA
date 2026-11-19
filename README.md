@@ -7,6 +7,7 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0005-longest-palindromic-substring) |
+| [0295-find-median-from-data-stream](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -159,6 +160,7 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -360,6 +362,7 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0449-serialize-and-deserialize-bst) |
 ## Iterator
 |  |
@@ -412,6 +415,7 @@ leetcode question's solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1046-last-stone-weight) |
@@ -514,4 +518,8 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
