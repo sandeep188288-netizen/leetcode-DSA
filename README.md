@@ -65,6 +65,7 @@ leetcode question's solutions
 | [0290-word-pattern](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -94,6 +95,7 @@ leetcode question's solutions
 | [0347-top-k-frequent-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0861-score-after-flipping-matrix](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1046-last-stone-weight) |
@@ -163,6 +165,7 @@ leetcode question's solutions
 | [0295-find-median-from-data-stream](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1288-remove-covered-intervals) |
@@ -188,6 +191,7 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
@@ -313,6 +317,7 @@ leetcode question's solutions
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0861-score-after-flipping-matrix](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -417,6 +422,7 @@ leetcode question's solutions
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
