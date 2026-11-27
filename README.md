@@ -268,6 +268,7 @@ leetcode question's solutions
 | [0841-keys-and-rooms](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1028-recover-a-tree-from-preorder-traversal](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1028-recover-a-tree-from-preorder-traversal) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -284,6 +285,7 @@ leetcode question's solutions
 | [0841-keys-and-rooms](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0841-keys-and-rooms) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
@@ -470,6 +472,7 @@ leetcode question's solutions
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
@@ -478,6 +481,7 @@ leetcode question's solutions
 | [0547-number-of-provinces](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/0841-keys-and-rooms) |
 | [1719-number-of-ways-to-reconstruct-a-tree](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1719-number-of-ways-to-reconstruct-a-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sandeep188288-netizen/leetcode-DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Monotonic Stack
 |  |
 | ------- |
